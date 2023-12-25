@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8ecf3476-0bc7-4941-af2e-831d961c340f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2a286YRojZV1witrzwjPsQgZCnC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="21.5.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="20.10.5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/views/home" />
+      <recent name="$PROJECT_DIR$/views" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ecf3476-0bc7-4941-af2e-831d961c340f" name="Default Changelist" comment="" />
+      <created>1703505138369</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703505138369</updated>
+      <workItem from="1703505139443" duration="5616000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="563" y="306" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1703511501936">
+      <screen x="0" y="25" width="1680" height="950" />
+    </state>
+    <state x="563" y="306" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1680.950@0.25.1680.950" timestamp="1703511501936" />
+    <state x="578" y="251" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1703508819637">
+      <screen x="0" y="25" width="1680" height="950" />
+    </state>
+    <state x="578" y="251" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.1680.950@0.25.1680.950" timestamp="1703508819637" />
+    <state width="600" height="428" key="javadoc.popup" timestamp="1703509821975">
+      <screen x="0" y="25" width="1680" height="950" />
+    </state>
+    <state width="600" height="428" key="javadoc.popup/0.25.1680.950@0.25.1680.950" timestamp="1703509821975" />
+  </component>
+</project>
